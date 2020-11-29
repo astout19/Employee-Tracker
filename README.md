@@ -10,8 +10,6 @@
 
   A node.js application to manage employees.
 
-  ![application screenshot](employee-tracker-screenshot.png)
-
 
 ## Table of Contents
 
@@ -25,9 +23,9 @@
 
 ## 1. Installation
 
-  1. Download [repository](https://github.com/kheller18/employee-tracker)
+  1. Download [repository](https://github.com/astout19/Employee-Tracker.git)
 
-	Git clone https://github.com/kheller18/employee-tracker
+	Git clone https://github.com/astout19/Employee-Tracker.git
   2. Install dependencies
 
 	npm install
@@ -68,7 +66,7 @@
 
 ## 4. Contributing
 
-  + [Keenan Heller](https://github.com/kheller18)
+  + [Alexandra Stout](https://github.com/astout19)
 
 
 ## 5. Tests
@@ -78,6 +76,6 @@
 
 ## 6. Questions
 
-  + [GitHub Profile](https://github.com/kheller18)
-  + Email: keenanaheller@gmail.com  
+  + [GitHub Profile](https://github.com/astout19)
+  + Email: vickalexandra3@gmail.com
     + Please feel free to contact me at the email address provided above.  I will be happy to answer any questions.  Feedback is gladly welcomed and appreciated!# Employee-Tracker

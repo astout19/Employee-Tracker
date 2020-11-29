@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A database system to track employees and their attributes",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astout19/Employee-Tracker.git"
+  },
+  "author": "Keenan Heller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astout19/Employee-Tracker.git/issues"
+  },
+  "homepage": "https://github.com/astout19/Employee-Tracker.git#readme"
+}
